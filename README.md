@@ -15,5 +15,7 @@ The current bins are only for linux computers and servers.
 #### Work to be Done
 
 1.) Development of a QT wallet with a more user friendly interface.
+
 2.) Parameter Programming 
+
 3.) Stress Test Dev Software.
