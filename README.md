@@ -7,3 +7,13 @@ There are two diffrent bins. The witness is used to verify blocks going across t
 ## Systems
 
 The current bins are only for linux computers and servers.
+
+### Updates
+
+2/16/2019 - This is currently the first iteration of the bins and only for one system.
+
+#### Work to be Done
+
+1.) Development of a QT wallet with a more user friendly interface.
+2.) Parameter Programming 
+3.) Stress Test Dev Software.
