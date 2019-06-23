@@ -1,4 +1,6 @@
 # Pico-Testnet
+## WARNING!! This wallet if for testing only any and all funds sent to the testnet is not secure and WILL be lost!!
+### Use the offical Pico wallet upon launch!!
 
 This is the pre-compiled pico bins that can be run to connect to the Pico Network.
 
@@ -19,3 +21,23 @@ The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 ## Connecting to the Pico 
 
 In order to connect to the live Pico testnet server using the cli-wallet run the following commands.
+
+```
+cd Downloads
+
+```
+
+Now check to see if the cli-wallet is executable. If it's not then it needs to be made executable with the following command.
+
+```
+sudo chmod +x cli_wallet
+
+```
+
+The file should now be green and we can connect to the pico testnet server.
+
+
+```
+./cli_wallet -s ws://149.28.226.202:8090
+
+```
