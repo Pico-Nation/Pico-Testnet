@@ -12,7 +12,7 @@ The current bins are only for linux computers and servers.
 
 The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 
-### Updates
+# Updates
 
 2/16/2019 - This is currently the first iteration of the bins and only for one system.
 
@@ -20,8 +20,11 @@ The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 
 7/14/2019 - Renovations needed and the code will now under go a overhaul.
 
+9/21/2019 - Local testnet testing.
 
-# ----------------------------- New Guide For Pico Coming Soon -----------------------------------
+
+
+# ---------- New Guide For Pico Coming Soon --------------
 
 ## Connecting to the Pico 
 
