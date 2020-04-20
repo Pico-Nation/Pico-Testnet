@@ -18,6 +18,11 @@ The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 
 6/23/2019 - New Version of the cli wallet will be released soon.
 
+7/14/2019 - Renovations needed and the code will now under go a overhaul.
+
+
+# ----------------------------- New Guide For Pico Coming Soon -----------------------------------
+
 ## Connecting to the Pico 
 
 In order to connect to the live Pico testnet server using the cli-wallet run the following commands.
