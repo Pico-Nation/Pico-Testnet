@@ -2,7 +2,7 @@
 ## WARNING!! This wallet if for testing only any and all funds sent to the testnet WILL BE LOST!!
 ### Use the offical Pico wallet upon launch!!
 
-As of right now this will be the experimental branch of the Pico main chain. Pico's Testnet will be used to explore and impliment new novel ideas to eventually be used on the full main chain after approval and testing. The binaries that will be published will be used to connect directly to the Pico Testnet. 
+As of right now this will be the experimental branch of the Pico main chain. Pico's Testnet will be used to explore and impliment new novel ideas to eventually be used on the full main chain after approval and testing. The binaries that will be published will connect directly to the Pico Testnet. 
 
 This is the pre-compiled pico bins that can be run to connect to the Pico Network.
 
