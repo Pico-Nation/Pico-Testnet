@@ -2,6 +2,8 @@
 ## WARNING!! This wallet if for testing only any and all funds sent to the testnet WILL BE LOST!!
 ### Use the offical Pico wallet upon launch!!
 
+As of right now this will be the experimental branch of the Pico main chain. Pico's Testnet will be used to explore and impliment new novel ideas to eventually be used on the full main chain after approval and testing. The binaries that will be published will be used to connect directly to the Pico Testnet. 
+
 This is the pre-compiled pico bins that can be run to connect to the Pico Network.
 
 There are two diffrent bins. The witness is used to verify blocks going across the networks. The wallet then can be run and connect to a netowork of witness nodes in order to broadcast transactions. 
@@ -10,7 +12,9 @@ There are two diffrent bins. The witness is used to verify blocks going across t
 
 The current bins are only for linux computers and servers.
 
-The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
+The cli-wallet has been tested on Ubuntu 18.04.
+
+There are more binaries to come in the future. 
 
 # Updates
 
@@ -41,6 +45,8 @@ The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 # ---------- New Guide For Pico Coming Soon --------------
 
 
+
+# -----------------------------OLD GUIDE-------------------------------------
 # The Guide below is used for refrence only a new guide will be released soon.
 
 ## Connecting to the Pico 
