@@ -39,14 +39,7 @@ There are more binaries to come in the future.
 5/10/2020 - Pico Testnet V1.0 Released.
 
 
-
-
-
-# ---------- New Guide For Pico Coming Soon --------------
-
-
-
-# -----------------------------OLD GUIDE-------------------------------------
+# -----------OLD GUIDE----------------
 # The Guide below is used for refrence only a new guide will be released soon.
 
 ## Connecting to the Pico 
@@ -72,3 +65,5 @@ The file should now be green and we can connect to the pico testnet server.
 ./cli_wallet -s ws://149.28.226.202:8090
 
 ```
+
+# ---------------------------------------
