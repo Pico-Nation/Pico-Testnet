@@ -22,6 +22,20 @@ The cli-wallet has been tested on Ubuntu 18.04 & 16.04.
 
 9/21/2019 - Local testnet testing.
 
+11/13/2019 - Working on Bug testing.
+
+12/16/2019 - Server optimization and further testing.
+
+12/19/2019 - Researching and Solving Issues.
+
+3/7/2020 - More Local Testnet Testing.
+
+4/15/2020 - Reworking of Codebase.
+
+5/10/2020 - Pico Testnet V1.0 Released.
+
+
+
 
 
 # ---------- New Guide For Pico Coming Soon --------------
