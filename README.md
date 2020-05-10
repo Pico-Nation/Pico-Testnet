@@ -1,5 +1,5 @@
 # Pico-Testnet
-## WARNING!! This wallet if for testing only any and all funds sent to the testnet are not secure and WILL be lost!!
+## WARNING!! This wallet if for testing only any and all funds sent to the testnet WILL BE LOST!!
 ### Use the offical Pico wallet upon launch!!
 
 This is the pre-compiled pico bins that can be run to connect to the Pico Network.
