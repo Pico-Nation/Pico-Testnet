@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+sudo apt-get update  -y
+sudo apt-get upgrade -y
+
+
+adduser user
+
+
+sudo usermod -aG sudo user
+
+su - user
+
+sudo whoami
+
+
+sudo apt-get install ubuntu-desktop -y
+
+
